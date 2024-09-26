@@ -1,0 +1,16 @@
+C:\Users\lunet\source\repos\DemoEncryptAES\DemoEncryptAES\bin\Debug\netcoreapp3.1\CS_Fase1.exe
+C:\Users\lunet\source\repos\DemoEncryptAES\DemoEncryptAES\bin\Debug\netcoreapp3.1\CS_Fase1.deps.json
+C:\Users\lunet\source\repos\DemoEncryptAES\DemoEncryptAES\bin\Debug\netcoreapp3.1\CS_Fase1.runtimeconfig.json
+C:\Users\lunet\source\repos\DemoEncryptAES\DemoEncryptAES\bin\Debug\netcoreapp3.1\CS_Fase1.runtimeconfig.dev.json
+C:\Users\lunet\source\repos\DemoEncryptAES\DemoEncryptAES\bin\Debug\netcoreapp3.1\CS_Fase1.dll
+C:\Users\lunet\source\repos\DemoEncryptAES\DemoEncryptAES\bin\Debug\netcoreapp3.1\CS_Fase1.pdb
+C:\Users\lunet\source\repos\DemoEncryptAES\DemoEncryptAES\obj\Debug\netcoreapp3.1\CS_Fase1.csproj.AssemblyReference.cache
+C:\Users\lunet\source\repos\DemoEncryptAES\DemoEncryptAES\obj\Debug\netcoreapp3.1\CS_Fase1.csproj.GenerateResource.cache
+C:\Users\lunet\source\repos\DemoEncryptAES\DemoEncryptAES\obj\Debug\netcoreapp3.1\CS_Fase1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lunet\source\repos\DemoEncryptAES\DemoEncryptAES\obj\Debug\netcoreapp3.1\CS_Fase1.AssemblyInfoInputs.cache
+C:\Users\lunet\source\repos\DemoEncryptAES\DemoEncryptAES\obj\Debug\netcoreapp3.1\CS_Fase1.AssemblyInfo.cs
+C:\Users\lunet\source\repos\DemoEncryptAES\DemoEncryptAES\obj\Debug\netcoreapp3.1\CS_Fase1.csproj.CoreCompileInputs.cache
+C:\Users\lunet\source\repos\DemoEncryptAES\DemoEncryptAES\obj\Debug\netcoreapp3.1\CS_Fase1.dll
+C:\Users\lunet\source\repos\DemoEncryptAES\DemoEncryptAES\obj\Debug\netcoreapp3.1\CS_Fase1.pdb
+C:\Users\lunet\source\repos\DemoEncryptAES\DemoEncryptAES\obj\Debug\netcoreapp3.1\CS_Fase1.genruntimeconfig.cache
+C:\Users\lunet\source\repos\DemoEncryptAES\DemoEncryptAES\obj\Debug\netcoreapp3.1\DemoEncryptAES.MainForm.resources

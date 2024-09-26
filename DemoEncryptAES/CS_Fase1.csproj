@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Cifrados\cifrado_05102021_191934\**" />
+    <EmbeddedResource Remove="Cifrados\cifrado_05102021_191934\**" />
+    <None Remove="Cifrados\cifrado_05102021_191934\**" />
+  </ItemGroup>
+
+</Project>
